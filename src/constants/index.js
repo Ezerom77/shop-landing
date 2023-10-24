@@ -32,22 +32,22 @@ export const statistics = [
 export const products = [
   {
     imgURL: shoe4,
-    name: "Nike Air Jordan-01",
+    name: "Spike Sea Fisher-01",
     price: "$200.20",
   },
   {
     imgURL: shoe5,
-    name: "Nike Air Jordan-10",
+    name: "Spike Sea Fisher-10",
     price: "$210.20",
   },
   {
     imgURL: shoe6,
-    name: "Nike Air Jordan-100",
+    name: "Spike Sea Fisher-100",
     price: "$220.20",
   },
   {
     imgURL: shoe7,
-    name: "Nike Air Jordan-001",
+    name: "Spike Sea Fisher-001",
     price: "$230.20",
   },
 ];
@@ -90,12 +90,12 @@ export const footerLinks = [
   {
     title: "Products",
     links: [
-      { name: "Air Force 1", link: "/" },
-      { name: "Air Max 1", link: "/" },
-      { name: "Air Jordan 1", link: "/" },
-      { name: "Air Force 2", link: "/" },
-      { name: "Nike Waffle Racer", link: "/" },
-      { name: "Nike Cortez", link: "/" },
+      { name: "Sea Force 1", link: "/" },
+      { name: "Sea Max 1", link: "/" },
+      { name: "Sea Fisher 1", link: "/" },
+      { name: "Sea Force 2", link: "/" },
+      { name: "Spike Waffle Racer", link: "/" },
+      { name: "Spike Cortez", link: "/" },
     ],
   },
   {
@@ -111,7 +111,7 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+      { name: "customer@Spike.com", link: "mailto:customer@Spike.com" },
       { name: "+92554862354", link: "tel:+92554862354" },
     ],
   },
